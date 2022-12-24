@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="acceder">Acceder</string>
+    <string name="registrar">Registrarse</string>
+    <string name="salir">Cerrar Sesión</string>
+</resources>
